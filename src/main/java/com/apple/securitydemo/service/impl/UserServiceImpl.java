@@ -26,5 +26,6 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements Us
 
         dbUserDetailsManager.createUser(userDetails);
         System.out.println("hello");
+        System.out.println("hello");
     }
 }
