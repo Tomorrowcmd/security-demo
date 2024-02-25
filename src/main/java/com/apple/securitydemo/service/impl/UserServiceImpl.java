@@ -29,5 +29,6 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements Us
         System.out.println("hello");
         System.out.println("hello git");
         System.out.println("hello git master-test");
+        System.out.println("hello hot-fix");
     }
 }
